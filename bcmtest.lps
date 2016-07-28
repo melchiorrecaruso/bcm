@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="2">
+      <Unit0>
+        <Filename Value="bcmtest.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="testbcm"/>
+        <TopLine Value="64"/>
+        <CursorPos X="7" Y="14"/>
+        <UsageCount Value="24"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="bcm.pas"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="466"/>
+        <CursorPos X="36" Y="484"/>
+        <FoldState Value=" T3k5078 pifjR0E2[95K04431f"/>
+        <UsageCount Value="12"/>
+        <Loaded Value="True"/>
+      </Unit1>
+    </Units>
+    <JumpHistory Count="14" HistoryIndex="13">
+      <Position1>
+        <Filename Value="bcmtest.lpr"/>
+        <Caret Column="16"/>
+      </Position1>
+      <Position2>
+        <Filename Value="bcmtest.lpr"/>
+        <Caret Line="14" Column="6"/>
+      </Position2>
+      <Position3>
+        <Filename Value="bcm.pas"/>
+      </Position3>
+      <Position4>
+        <Filename Value="bcm.pas"/>
+        <Caret Line="28" TopLine="11"/>
+      </Position4>
+      <Position5>
+        <Filename Value="bcm.pas"/>
+        <Caret Line="29" Column="3" TopLine="15"/>
+      </Position5>
+      <Position6>
+        <Filename Value="bcm.pas"/>
+        <Caret Line="482" Column="17" TopLine="386"/>
+      </Position6>
+      <Position7>
+        <Filename Value="bcm.pas"/>
+        <Caret Line="464" Column="44" TopLine="457"/>
+      </Position7>
+      <Position8>
+        <Filename Value="bcm.pas"/>
+        <Caret Line="78" TopLine="64"/>
+      </Position8>
+      <Position9>
+        <Filename Value="bcm.pas"/>
+        <Caret Line="456" Column="38" TopLine="457"/>
+      </Position9>
+      <Position10>
+        <Filename Value="bcm.pas"/>
+        <Caret Line="476" Column="44" TopLine="455"/>
+      </Position10>
+      <Position11>
+        <Filename Value="bcm.pas"/>
+        <Caret Line="431" Column="18" TopLine="309"/>
+      </Position11>
+      <Position12>
+        <Filename Value="bcm.pas"/>
+        <Caret Line="482" Column="21" TopLine="462"/>
+      </Position12>
+      <Position13>
+        <Filename Value="bcm.pas"/>
+        <Caret Line="483" Column="17" TopLine="466"/>
+      </Position13>
+      <Position14>
+        <Filename Value="bcm.pas"/>
+        <Caret Line="484" Column="29" TopLine="466"/>
+      </Position14>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
